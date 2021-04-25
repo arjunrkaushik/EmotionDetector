@@ -17,7 +17,7 @@ Once you clone the repository, follow the below steps to get the Emotion Detecto
 * A pre-trained file is available in case you are unable to train - **Emotion_little_vgg.h5**
 
 **Step 2 -**
-* Set the right path for face_classifier and classifier
+* Set the right path for face_classifier and classifier in image_detector.py
 * Run the image_detector.py file in command prompt as **python image_detector.py**
 
 Voila, your Emotion Detector is up and running. 
