@@ -1,6 +1,8 @@
 # EmotionDetector
 
-This is a Deep Learning project which uses Python and OpenCV to detect emotions on human faces - angry/happy/sad/neutral/surprised.
+This is a Deep Learning project which uses Python and OpenCV to detect emotions on human faces - angry/happy/sad/neutral/surprised. 
+
+Check out Happy.jpg and Neutral.jpg to get a peek of how the program works.
 
 ## How To Run The Project 
 
